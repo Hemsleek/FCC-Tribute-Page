@@ -1,7 +1,7 @@
 # Tribute Page
 One of the projects for Freecodecamp Responsive web design curriculum, a tribute page for _*Paul Allen Walker*_  
 
->instructions can be found [here](<https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page>)
+>instructions can be found [here](<https://raw.githack.com/Hemsleek/FCC-Tribute-Page/master/tribute.html>)
 ## Getting started
 clone or download this repository ,run the `tribute.html` with favourite browser.
 ## Preview
